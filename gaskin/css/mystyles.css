@@ -47,13 +47,11 @@ footer{
     font-size: small;
     background-color:white;
 }
-.top{
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    text-align: center;
-}
 .idea{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.labels{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bold; !important
 }
 
